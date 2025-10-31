@@ -20,16 +20,15 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Cliente:** Poder atender o desejo dele e conseguir entregar um projeto adequado   
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Quero entregar um bom projeto visando as necessidades do cliente .         | Alta       | 5 pontos   |
+| US2 | Com o projeto pretende poder alcançar todas as metas previstas.         | Média      | 3 pontos   |
 
 ---
 
