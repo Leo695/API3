@@ -13,9 +13,9 @@
 
 ## 📝 Descrição da Solução
 > Nesssa etapta será entregue o gráfico e o relatório atualizado.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Facilitar a forma de organizar e de mostrar o projeto 
+- O grupo sabe que tem alguns limites que estamos desenvolvendo para a entrega do projeto final.  
+    
 
 ---
 
