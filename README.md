@@ -44,15 +44,15 @@
 
 ## 📈 Métricas de Validação
 - 2 
-- Foi um feedback positivo 
+- Foi um feedback positivo com relação ao projeto 
  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Nas próximas Sprints já arrumar e possivelmente melhor para poder entregar um ótimo projeto.  
+- Ajustar oque estiver errado e melhorar.
+
 
 ---
 
